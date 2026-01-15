@@ -28,7 +28,7 @@ $ help
 > - projects
 > - contact
 > - sudo
-$ run skills 👉 execute
+$ run skills 👉 ./skills.md
 $ run projects 👉 execute
 $ run contact 👉 execute
 
