@@ -28,3 +28,12 @@ $ help
 > - projects
 > - contact
 > - sudo
+$ run skills 👉 execute
+$ run projects 👉 execute
+$ run contact 👉 execute
+
+bash
+Copy code
+$ sudo su
+> ❌ permission denied
+<!-- try sudo -->
