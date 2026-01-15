@@ -6,34 +6,8 @@
 $ whoami
 > Swaraj Kumar
 
-$ uname -a
-> Cybersecurity | Zero Trust | Research
-
 $ location
 > India
 
-$ ls skills
-> networking  authentication  flutter  research
-
-$ cat about.txt
-> Curious problem solver.
-> Interested in secure systems and zero-trust design.
-
 $ uptime
 > Always learning. Always building.
-
-$ help
-> Available commands:
-> - skills
-> - projects
-> - contact
-> - sudo
-$ run skills 👉 ./skills.md
-$ run projects 👉 execute
-$ run contact 👉 execute
-
-bash
-Copy code
-$ sudo su
-> ❌ permission denied
-<!-- try sudo -->
