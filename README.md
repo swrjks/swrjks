@@ -1,205 +1,188 @@
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f5f5f5,ffffff,efefef&height=160&section=header&text=Swaraj%20Kumar%20Sahu&fontSize=52&fontColor=111111&fontAlignY=55&desc=swrjks&descSize=18&descAlignY=80&descColor=888888&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a1a,100:0d1b2a&height=220&section=header&text=swrjks&fontSize=90&fontColor=e0f0ff&fontAlignY=40&desc=Software%20Eng%20%C2%B7%20ML%2FAI%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile&descAlignY=62&descColor=4fc3f7&animation=twinkling&fontStyle=bold" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3500&pause=1000&color=111111&center=true&vCenter=true&width=540&lines=Software+engineer.+AI+builder.+App+maker.;Designing+systems+worth+trusting.;Turning+complex+into+simple.;Building+quietly.+Shipping+loudly." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=700&color=4FC3F7&center=true&vCenter=true&width=580&lines=Behavioral+fraud+detection+at+the+edge.;AI+systems+that+watch+so+humans+don't+have+to.;From+raw+logs+to+attack+stories+in+seconds.;Shipping+intelligent+software.+Always." alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-4fc3f7?style=flat-square&labelColor=0a0a1a&color=4fc3f7" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=swrjks&label=VISITORS&color=4fc3f7&labelColor=0a0a1a&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-INDIA%20🇮🇳-4fc3f7?style=flat-square&labelColor=0a0a1a" />
+
+</div>
+
+<br/>
+
+---
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+## `whoami`
+
+```ts
+const swrjks = {
+  name      : "Swaraj Kumar Sahu",
+  domains   : ["Software Eng", "ML/AI",
+               "Full-Stack", "Mobile"],
+  building  : {
+    PhishSafe   : "Behavioral fraud SDK 
+                   for mobile banking",
+    SentinelMind: "SOC-grade AI log 
+                   analysis platform",
+  },
+  passion   : "Intelligent systems 
+               that protect people",
+  currently : "Exploring agentic AI 
+               & edge inference",
+  openTo    : ["Collabs", "Internships",
+               "Full-time", "Freelance"],
+};
+```
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swrjks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=c9d1d9&ring_color=4fc3f7&include_all_commits=true&count_private=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swrjks&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=c9d1d9" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## `featured_projects[]`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡 PhishSafe SDK
+**`BBA_MobileBanking`**
+
+A silent behavioral fraud detection SDK for mobile banking. Monitors post-login session activity — taps, swipes, durations, posture — and runs a **PyTorch on-device ML model** to calculate a real-time trust score. Zero cloud dependency. Zero friction.
+
+```
+Stack → Flutter · Dart · Kotlin
+        PyTorch Mobile · React
+        Supabase · MethodChannels
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=4fc3f7&labelColor=0d1117)](https://github.com/swrjks/BBA_MobileBanking)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SentinelMind
+**`SentinelMind`**
+
+A desktop SOC platform that turns raw security logs into visual attack chains. MITRE ATT&CK mapping, AI-generated investigation reports, and interactive graph playback — all in an Electron app. Designed for analysts, researchers, and defenders.
+
+```
+Stack → Python · FastAPI · Electron
+        Node.js · Cytoscape.js
+        GPT-4o · Tailwind · HTML
+```
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-0d1117?style=for-the-badge&logo=github&logoColor=4fc3f7&labelColor=0d1117)](https://github.com/swrjks/SentinelMind)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `stack.init()`
+
+<div align="center">
+
+**[ Languages ]**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4fc3f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4fc3f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=4fc3f7)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=4fc3f7)
+
+**[ ML / AI ]**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=4fc3f7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+**[ Web & Frameworks ]**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**[ Mobile ]**
+
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F)
+
+**[ Cloud & Infra ]**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+</div>
+
+---
+
+## `activity.graph()`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swrjks&bg_color=0d1117&color=4fc3f7&line=1a6b9a&point=4fc3f7&area=true&hide_border=true&area_color=0d2137" width="98%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swrjks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fc3f7&text_color=c9d1d9&langs_count=8" width="42%" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=swrjks&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" width="52%" />
+</div>
+
+---
+
+## `connect()`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4fc3f7)](https://linkedin.com/in/swrjks)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4fc3f7)](https://swrjks.dev)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:swarajkumarsahu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/swrjks)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-Software_Engineer-111111?style=flat-square&labelColor=111111&color=111111&logo=code&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/-ML_%2F_AI-111111?style=flat-square&labelColor=111111&color=111111&logo=openai&logoColor=ffffff)
-&nbsp;
-![](https://img.shields.io/badge/-India_🇮🇳-111111?style=flat-square&labelColor=111111&color=111111)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=swrjks&label=views&color=111111&labelColor=111111&style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a0a1a,100:000000&height=110&section=footer" />
 
-<br/>
+<sub>designed by <b>swrjks</b> · updates automatically · no template used</sub>
 
 </div>
-
----
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```
-name     Swaraj Kumar Sahu
-handle   swrjks
-role     Software Eng · ML/AI
-         Full-Stack · Mobile
-now      Building intelligent
-         systems that protect
-         people at scale
-open     Collabs · Internships
-         Full-time · Freelance
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-PhishSafe SDK ─────────────────
-Behavioral fraud detection for
-mobile banking. On-device ML.
-Zero cloud. Zero friction.
-
-SentinelMind ──────────────────
-SOC-grade AI log analysis.
-MITRE ATT&CK mapped. Attack
-chain playback. Desktop app.
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**PhishSafe SDK** &nbsp;·&nbsp; `BBA_MobileBanking`
-
-A lightweight behavioral fraud detection SDK that runs entirely on-device inside Flutter banking apps. Monitors session signals — taps, swipes, screen durations, posture — and runs a PyTorch model to calculate a real-time trust score. Nothing leaves the device.
-
-`Flutter` `Dart` `Kotlin` `PyTorch Mobile` `React`
-
-[→ github.com/swrjks/BBA_MobileBanking](https://github.com/swrjks/BBA_MobileBanking)
-
-</td>
-<td width="50%" valign="top">
-
-**SentinelMind** &nbsp;·&nbsp; `SentinelMind`
-
-A desktop security analysis platform for SOC teams and researchers. Ingests raw logs, maps them to MITRE ATT&CK tactics, renders interactive attack chain graphs, and generates AI-written investigation reports in both analyst and executive modes.
-
-`Python` `FastAPI` `Electron` `Cytoscape.js` `GPT-4o`
-
-[→ github.com/swrjks/SentinelMind](https://github.com/swrjks/SentinelMind)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=111111)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=111111)
-![Dart](https://img.shields.io/badge/Dart-ffffff?style=flat-square&logo=dart&logoColor=111111)
-![C++](https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=cplusplus&logoColor=111111)
-
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff?style=flat-square&logo=tensorflow&logoColor=111111)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=flat-square&logo=scikit-learn&logoColor=111111)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-ffffff?style=flat-square&logo=huggingface&logoColor=111111)
-![OpenCV](https://img.shields.io/badge/OpenCV-ffffff?style=flat-square&logo=opencv&logoColor=111111)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=111111)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=111111)
-![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=111111)
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=node.js&logoColor=111111)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-ffffff?style=flat-square&logo=tailwindcss&logoColor=111111)
-
-**Mobile & Desktop**
-
-![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=flat-square&logo=flutter&logoColor=111111)
-![React Native](https://img.shields.io/badge/React_Native-ffffff?style=flat-square&logo=react&logoColor=111111)
-![Electron](https://img.shields.io/badge/Electron-ffffff?style=flat-square&logo=electron&logoColor=111111)
-
-**Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=111111)
-![AWS](https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazon-aws&logoColor=111111)
-![GCP](https://img.shields.io/badge/GCP-ffffff?style=flat-square&logo=google-cloud&logoColor=111111)
-![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=flat-square&logo=supabase&logoColor=111111)
-![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=111111)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swrjks&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=111111&text_color=444444&include_all_commits=true&count_private=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swrjks&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444&langs_count=8" width="38%" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swrjks&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=444444&dates=888888&stroke=FFFFFF" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swrjks&bg_color=ffffff&color=111111&line=bbbbbb&point=111111&area=true&hide_border=true&area_color=eeeeee" width="98%" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=111111)](https://linkedin.com/in/swrjks)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=111111)](https://swrjks.dev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=111111)](mailto:swarajkumarsahu@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=111111)](https://github.com/swrjks)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <sub>swrjks &nbsp;·&nbsp; India &nbsp;·&nbsp; open to work</sub>
-</div>
-
-<br/>
