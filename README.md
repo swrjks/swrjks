@@ -161,28 +161,3 @@ Stack → Python · FastAPI · Electron
 </div>
 
 ---
-
-## `connect()`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4fc3f7)](https://linkedin.com/in/swrjks)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4fc3f7)](https://swrjks.dev)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:swarajkumarsahu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/swrjks)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a0a1a,100:000000&height=110&section=footer" />
-
-<sub>designed by <b>swrjks</b> · updates automatically · no template used</sub>
-
-</div>
