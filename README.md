@@ -12,9 +12,9 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=swarajkumarsahu&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=swrjks&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/swarajkumarsahu?label=FOLLOWERS&style=flat-square&color=1a1a2e&labelColor=ffffff" />
+  <img src="https://img.shields.io/github/followers/swrjks?label=FOLLOWERS&style=flat-square&color=1a1a2e&labelColor=ffffff" />
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=flat-square&labelColor=000000" />
 </p>
@@ -55,7 +55,7 @@ const swaraj = {
 
 ## `> metrics`
 
-<img src="https://github-readme-stats.vercel.app/api?username=swarajkumarsahu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=swrjks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" width="100%" />
 
 </td>
 </tr>
@@ -117,15 +117,15 @@ const swaraj = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swarajkumarsahu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajkumarsahu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swrjks&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swrjks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarajkumarsahu&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swrjks&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" width="98%" />
 </div>
 
 ---
@@ -134,7 +134,7 @@ const swaraj = {
 ## `> achievements.unlock()`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swarajkumarsahu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swrjks&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </div>
 
 ---
@@ -144,11 +144,11 @@ const swaraj = {
 
 <div align="center">
 
-<a href="https://github.com/swarajkumarsahu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarajkumarsahu&repo=YOUR_BEST_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<a href="https://github.com/swrjks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrjks&repo=YOUR_BEST_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/swarajkumarsahu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarajkumarsahu&repo=YOUR_BEST_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<a href="https://github.com/swrjks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=swrjks&repo=YOUR_BEST_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
 </div>
@@ -175,11 +175,11 @@ const swaraj = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/swarajkumarsahu)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/swarajkumarsahu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://swarajkumarsahu.dev)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:swarajkumarsahu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/swarajkumarsahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/swrjks)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/swrjks)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://swrjks.dev)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:swrjks@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/swrjks)
 
 </div>
 
