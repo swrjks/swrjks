@@ -21,11 +21,11 @@
 
 ### what i'm about
 
-I build things that work in the real world — not just demos.  
+I build things that work in the real world, not just demos.  
 Currently a 3rd year CSE student obsessed with ML systems, applied security, and shipping fast.
 
 - 🏆 **7 hackathon wins** · ₹1.35L+ in prizes
-- 🛩️ **ML Intern @ HAL (MCSRDC)** — built trajectory visualizers & ETL pipelines on 90k+ data points  
+- 🛩️ **ML Intern @ HAL (MCSRDC)** · built trajectory visualizers & ETL pipelines on 90k+ data points  
 - 🎯 **McKinsey Forward** alumnus · Student Achiever Award
 
 ---
@@ -34,8 +34,8 @@ Currently a 3rd year CSE student obsessed with ML systems, applied security, and
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**NumerML**](https://numeriml.vercel.app/) | ML solver in production — 600+ users, Razorpay integrated | Python · Redis · FastAPI |
-| [**SecYour**](https://github.com/swrjks/BBA_MobileBanking) | Banking auth SDK — Autoencoder + Isolation Forest fraud detection | Flutter · TFLite · ML |
+| [**NumerML**](https://numeriml.vercel.app/) | ML solver in production, 600+ users, Razorpay integrated | Python · Redis · FastAPI |
+| [**SecYour**](https://github.com/swrjks/BBA_MobileBanking) | Banking auth SDK with Autoencoder + Isolation Forest fraud detection | Flutter · TFLite · ML |
 | [**SentinelMind**](https://github.com/swrjks/SentinelMind) | SOC automation platform with LLM-powered threat triage | LangChain · FAISS · Llama 3.1 |
 | [**PhishFree**](https://github.com/swrjks/Phish-Free) | Phishing detection — CNN + GNN + RoBERTa ensemble | PyTorch · HuggingFace |
 | [**FRTS**](https://github.com/swrjks/Field-Recon-Terrain-System) | 3D terrain mapping with pathfinding | A* · Dijkstra · GDAL |
