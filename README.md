@@ -47,7 +47,6 @@ Currently a 3rd year CSE student obsessed with ML systems, applied security, and
 ```
 → building  Devpath.ai + LLM-Switch
 → grinding  LeetCode daily (DSA ramp-up)
-→ targeting FAANG, product companies, YC startups
 → open to   SWE / ML internship & FTE roles
 ```
 
