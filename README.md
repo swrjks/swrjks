@@ -20,13 +20,13 @@
 ---
 
 ### what i'm about
-
 I build things that work in the real world, not just demos.  
 Currently a 3rd year CSE student obsessed with ML systems, applied security, and shipping fast.
 
 - 🏆 **6 hackathon wins** · ₹1.2L+ in prizes
-- 🛩️ **Ex ML Intern @ HAL (MCSRDC)** · built trajectory visualizers & ETL pipelines on 90k+ data points  
-- 🎯 **McKinsey Forward** alumnus · Student Achiever Award
+- 🛩️ **Ex ML Intern @ HAL (MCSRDC)** · built trajectory visualizers & ETL pipelines on 90k+ data points
+- 🏅 **Grand Finalist, Smart India Hackathon 2025** · Govt. of India · 1M+ participants
+- 🎯 **3x Student Achiever Award**
 
 ---
 
