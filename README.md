@@ -56,11 +56,11 @@ Currently a 3rd year CSE student obsessed with ML systems, applied security, and
 ### stack
 
 ```python
-languages  = ["Python", "Dart", "C++", "JavaScript"]
-ml         = ["PyTorch", "TFLite", "LangChain", "FAISS", "HuggingFace"]
-infra      = ["Redis", "Airflow", "FastAPI", "Docker"]
-mobile     = ["Flutter"]
-tools      = ["Git", "Linux", "GDAL"]
+languages  = ["Python", "Java", "JavaScript", "TypeScript", "Dart", "SQL"]
+ai_ml      = ["PyTorch", "TensorFlow", "scikit-learn", "LangChain", "HuggingFace", "RAG", "Pandas", "NumPy"]
+databases  = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+web_mobile = ["React", "Node.js", "FastAPI", "Flask", "Flutter", "Electron", "Tailwind CSS"]
+devops     = ["AWS", "Docker", "Kubernetes", "Airflow", "Git", "Linux"]
 ```
 
 ---
