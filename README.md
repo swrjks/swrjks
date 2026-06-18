@@ -9,7 +9,7 @@
   ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-**CS Undergrad @ CMRIT Bengaluru · Builder · ML + Security nerd**
+**CS Undergrad @ CMRIT Bengaluru · Builder · ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swrjks)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/swarajks/)
